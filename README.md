@@ -14,13 +14,15 @@
     <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
   </a>
   
-  <a href="https://discord.gg/2JxGQ6B5M2" target="_blank">
+  <a href="#" target="_blank">
     <img src=https://img.shields.io/badge/discord-%237289D0.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;"/>
   </a>
   
 </div>
 
-<br><br>
+<br>
+
+<h1 align="center">Languages and Tools</h1>
 
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
