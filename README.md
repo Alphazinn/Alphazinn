@@ -22,32 +22,20 @@
 
 <br>
 
-<h1 align="center">Languages and Tools</h1>
+<div align="center">
 
-<div align="center">  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
-  <img style="margin: 10px" src="nodejs.png" alt="Node.js" height="75" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" />
+  <p>
+    <a href="https://discord.com/users/286171630370291712">
+      <img src="https://lanyard.cnrad.dev/api/286171630370291712" alt="Alpha Discord Presence">
+    </a>
+  </p>
   
-  <br>
-  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />
-  
-  <br>
-  
-  <img style="margin: 10px" src="premierepro.png" alt="Premiere Pro" height="75" />  
-  <img style="margin: 10px" src="photoshop.png" alt="Photoshop" height="75" />  
-  <img style="margin: 10px" src="aftereffects.png" alt="After Effects" height="75" />  
-  <img style="margin: 10px" src="illustrator.png" alt="Illustrator" height="75" />  
 </div>
-
-<br><br>
 
 <div align="center">
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphazinn&show_icons=true&theme=dark&locale=en" alt="alphazinn" /></p>
+  <p>
+    &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphazinn&show_icons=true&hide_border=true&hide_title=true&bg_color=1a1c1f&border_radius=10&theme=dark&locale=en" alt="alphazinn" />
+  </p>
   
 </div>
