@@ -31,7 +31,7 @@
 
   <p>
     <a href="https://discord.com/users/286171630370291712">
-      <img src="https://lanyard.cnrad.dev/api/286171630370291712?hideStatus=true&idleMessage=doing great things ⭐&hideBadges=true" alt="Alpha Discord Presence">
+      <img src="https://lanyard.cnrad.dev/api/286171630370291712?idleMessage=doing great things ⭐&hideBadges=true&hideStatus=true" alt="Alpha Discord Presence">
     </a>
   </p>
   
