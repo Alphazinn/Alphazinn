@@ -44,3 +44,25 @@
   </p>
   
 </div>
+
+<h2 align="center">Languages And Tools</h2>
+
+<div align="center">
+ 
+  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/96/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png"/>
+  <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
+  <img src="https://img.icons8.com/fluency/96/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png"/>
+  
+  <br>
+  
+  <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png"/>
+  <img src="https://img.icons8.com/color/96/000000/adobe-illustrator--v1.png"/>
+  <img src="https://img.icons8.com/color/96/000000/adobe-premiere-pro--v1.png"/>
+  <img src="https://img.icons8.com/color/96/000000/adobe-after-effects--v1.png"/>
+  
+</div>
