@@ -65,8 +65,8 @@
   
   <img src="https://img.icons8.com/color/96/000000/adobe-photoshop--v1.png"/>
   <img src="https://img.icons8.com/color/96/000000/adobe-illustrator--v1.png"/>
+  <img src="https://img.icons8.com/color/96/000000/adobe-fireworks--v2.png"/>
   <img src="https://img.icons8.com/color/96/000000/adobe-premiere-pro--v1.png"/>
   <img src="https://img.icons8.com/color/96/000000/adobe-after-effects--v1.png"/>
-  <img src="https://img.icons8.com/color/96/000000/adobe-fireworks--v2.png"/>
   
 </div>
