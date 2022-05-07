@@ -52,9 +52,12 @@
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/96/000000/css3.png"/>
   <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png"/>
-  <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
+  
+  <br>
+  
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png"/>
   
   <br>
   
