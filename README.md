@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">👋 Hey there! I'm Furkan (Alpha) </h1>
+<h3 align="center">Full Stack Developer </h3>
 
-<!--
-**Alphazinn/Alphazinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Languages & Frameworks  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,nodejs,react,php,java,cpp,cs,lua" alt="Languages & Frameworks" />
+</p>
+
+### 🔹 Databases & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git" alt="Databases & Tools" />
+</p>
+
+### 🔹 IDEs & UI Frameworks  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,bootstrap,tailwind,jquery" alt="IDEs & UI Frameworks" />
+</p>
+
+---
+
+## 🌟 About Me  
+
+- 🎯 Passionate about **backend development**  
+- 💡 Experienced in **full stack web development**  
+- 🛠 Enjoys writing **clean, optimized, and structured** code  
+- 🎓 Always learning new technologies and improving skills  
+- ⚡ Fun fact: I love **efficiency** in coding!  
+
+---
+
+## 🚀 Projects  
+🔹 **FiveM Scripts**  
+🔹 **Discord Bots**  
+
+---
+
+## 📫 Contact Me  
+💬 **Discord:** `1337alpha`  
