@@ -35,7 +35,7 @@
 ## 🚀 Projects  
 🔹 **FiveM Scripts**  
 🔹 **Discord Bots**  
-🔹 **Minecraft Bots**  
+🔹 **Minecraft Mods**  
 
 ---
 
