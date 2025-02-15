@@ -33,9 +33,9 @@
 ---
 
 ## 🚀 Projects  
-🔹 **FiveM Scripts**  
-🔹 **Discord Bots**  
-🔹 **Minecraft Mods**  
+🐌 **FiveM Scripts**  
+🤖 **Discord Bots**  
+🧱 **Minecraft Mods**  
 
 ---
 
