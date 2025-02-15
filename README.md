@@ -24,11 +24,11 @@
 
 ## 🌟 About Me  
 
-- 🎯 Passionate about **backend development**  
-- 💡 Experienced in **full stack web development**  
-- 🛠 Enjoys writing **clean, optimized, and structured** code  
-- 🎓 Always learning new technologies and improving skills  
-- ⚡ Fun fact: I love **efficiency** in coding!  
+🎯 Passionate about **backend development**  
+💡 Experienced in **full stack web development**  
+🛠 Enjoys writing **clean, optimized, and structured** code  
+🎓 Always learning new technologies and improving skills  
+⚡ Fun fact: I love **efficiency** in coding!  
 
 ---
 
