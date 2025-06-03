@@ -7,7 +7,7 @@
 
 ### 🔹 Languages & Frameworks  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,nodejs,react,php,java,cpp,cs,lua" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,scss,nodejs,react,php,java,cpp,cs,lua" alt="Languages & Frameworks" />
 </p>
 
 ### 🔹 Databases & Tools  
