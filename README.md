@@ -17,7 +17,7 @@
 
 ### 🔹 IDEs & UI Frameworks  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,bootstrap,tailwind,jquery" alt="IDEs & UI Frameworks" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,bootstrap,tailwind,jquery" alt="IDEs & UI Frameworks" />
 </p>
 
 ---
