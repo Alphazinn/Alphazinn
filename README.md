@@ -33,7 +33,7 @@
 ---
 
 ## 🚀 Projects  
-🐌 **FiveM Scripts**  
+🐌 [**FiveM Scripts**](https://store.alpha-scripts.net)  
 🤖 **Discord Bots**  
 🧱 **Minecraft Mods**  
 
