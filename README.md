@@ -33,7 +33,7 @@
 ---
 
 ## 🚀 Projects  
-🐌 [**FiveM Scripts**](https://store.alpha-scripts.net)  
+🐌 [**FiveM Scripts**](https://wormhole-studios.tebex.io/)  
 🤖 **Discord Bots**  
 🧱 **Minecraft Mods**  
 
